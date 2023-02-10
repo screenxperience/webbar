@@ -83,17 +83,17 @@
         <sectionname>Whisky</sectionname>
         <sectionarticle>
             <articlename>Black Ram</articlename>
-            <articleprice>4.00</articleprice>
+            <articleprice>5.00</articleprice>
             <articlealcohol>1</articlealcohol>
         </sectionarticle>
         <sectionarticle>
             <articlename>Jack Daniels</articlename>
-            <articleprice>4.00</articleprice>
+            <articleprice>5.00</articleprice>
             <articlealcohol>1</articlealcohol>
         </sectionarticle>
         <sectionarticle>
             <articlename>Glenfiddich</articlename>
-            <articleprice>4.00</articleprice>
+            <articleprice>5.00</articleprice>
             <articlealcohol>1</articlealcohol>
         </sectionarticle>
     </section>
