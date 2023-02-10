@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <section>
+        <sectionname>Cocktails</sectionname>
+        <sectionarticle>
+            <articlename>Caipirinha</articlename>
+            <articleprice>4.00</articleprice>
+        </sectionarticle>
+        <sectionarticle>
+            <articlename>Grüne Wiese</articlename>
+            <articleprice>4.00</articleprice>
+        </sectionarticle>
+        <sectionarticle>
+            <articlename>Haustrunk</articlename>
+            <articleprice>4.00</articleprice>
+        </sectionarticle>
+        <sectionarticle>
+            <articlename>Ipanema</articlename>
+            <articleprice>4.00</articleprice>
+        </sectionarticle>
+        <sectionarticle>
+            <articlename>Pina Colada</articlename>
+            <articleprice>4.00</articleprice>
+        </sectionarticle>
+        <sectionarticle>
+            <articlename>Sex on the Beach</articlename>
+            <articleprice>4.00</articleprice>
+        </sectionarticle>
+        <sectionarticle>
+            <articlename>Sportsman</articlename>
+            <articleprice>4.00</articleprice>
+        </sectionarticle>
+        <sectionarticle>
+            <articlename>Virgin Colada</articlename>
+            <articleprice>4.00</articleprice>
+        </sectionarticle>
+    </section>
+    <section>
+        <sectionname>Liköre</sectionname>
+        <sectionarticle>
+            <articlename>Creme</articlename>
+            <articleprice>1.50</articleprice>
+        </sectionarticle>
+        <sectionarticle>
+            <articlename>Kirsch</articlename>
+            <articleprice>1.50</articleprice>
+        </sectionarticle>
+        <sectionarticle>
+            <articlename>Pfeffi</articlename>
+            <articleprice>1.50</articleprice>
+        </sectionarticle>
+        <sectionarticle>
+            <articlename>Pfirsich</articlename>
+            <articleprice>1.50</articleprice>
+        </sectionarticle>
+    </section>
+    <section>
+        <sectionname>Longdrinks</sectionname>
+        <sectionarticle>
+            <articlename>Amaretto Apfel</articlename>
+            <articleprice>4.00</articleprice>
+        </sectionarticle>
+        <sectionarticle>
+            <articlename>Gin Tonic</articlename>
+            <articleprice>4.00</articleprice>
+        </sectionarticle>
+        <sectionarticle>
+            <articlename>Whisky Cola</articlename>
+            <articleprice>4.00</articleprice>
+        </sectionarticle>
+    </section>
+    <section>
+        <sectionname>Whisky</sectionname>
+        <sectionarticle>
+            <articlename>Black Ram</articlename>
+            <articleprice>4.00</articleprice>
+        </sectionarticle>
+        <sectionarticle>
+            <articlename>Jack Daniels</articlename>
+            <articleprice>4.00</articleprice>
+        </sectionarticle>
+        <sectionarticle>
+            <articlename>Glenfiddich</articlename>
+            <articleprice>4.00</articleprice>
+        </sectionarticle>
+    </section>
+     <section>
+        <sectionname>Sonstiges</sectionname>
+        <sectionarticle>
+            <articlename>Glas Sekt</articlename>
+            <articleprice>3.50</articleprice>
+        </sectionarticle>
+    </section>
+</menu>
+  

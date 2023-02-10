@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cocktailcarousel>
+    <cocktail>
+        <cocktailname>Pina Colada</cocktailname>
+        <cocktailprice>4.00</cocktailprice>
+        <cocktaildescription> Die Pina Colada ist ein süßer, cremiger Cocktail mit Rum, Kokossirup und Ananassaft.</cocktaildescription>
+        <cocktailimage>images/pina_colada.png</cocktailimage>
+        <cocktailingredients>brauner Rum,weißer Rum,Ananassaft,Kokossirup,Sahne</cocktailingredients>
+    </cocktail>
+    <cocktail>
+        <cocktailname>Sex on the Beach</cocktailname>
+        <cocktailprice>4.00</cocktailprice>
+        <cocktaildescription> Sex on the Beach ist in seiner ursprünglichen Form ein fruchtiger, mäßig süßer Cocktail und gehört zur Gruppe der New England Highballs.</cocktaildescription>
+        <cocktailimage>images/sex_on_the_beach.png</cocktailimage>
+        <cocktailingredients>Granberrysaft,Wodka,Pfirsichlikör,Orangensaft,Zitronensaft</cocktailingredients>
+    </cocktail>
+    <cocktail>
+        <cocktailname>Grüne Wiese</cocktailname>
+        <cocktailprice>4.00</cocktailprice>
+        <cocktaildescription>Die Grüne Wiese ist ein Cocktail, der in den 1980er Jahren vor allem in der DDR als Partycocktail populär war.</cocktaildescription>
+        <cocktailimage>images/gruene_wiese.png</cocktailimage>
+        <cocktailingredients>Orangensaft,Blue Curaçao,Sekt</cocktailingredients>
+    </cocktail>
+    <cocktail>
+        <cocktailname>Caipirinha</cocktailname>
+        <cocktailprice>4.00</cocktailprice>
+        <cocktaildescription> Der Caipirinha ist ein aus Brasilien stammender Cocktail. Im Sinne klassischer Cocktail Genres zählt er zur Kategorie der Sours.</cocktaildescription>
+        <cocktailimage>images/caipirinha.png</cocktailimage>
+        <cocktailingredients>Limetten,brauner Zucker,Pitu,Ginger Ale</cocktailingredients>
+    </cocktail>
+    <cocktail>
+        <cocktailname>Virgin Colada</cocktailname>
+        <cocktailprice>4.00</cocktailprice>
+        <cocktaildescription>Die Virgin Colada ist die alkoholfreie Variante der Pina Colada.</cocktaildescription>
+        <cocktailimage>images/virgin_colada.png</cocktailimage>
+        <cocktailingredients>Ananassaft,Kokossirup,Sahne</cocktailingredients>
+    </cocktail>
+    <cocktail>
+        <cocktailname>Ipanema</cocktailname>
+        <cocktailprice>4.00</cocktailprice>
+        <cocktaildescription>Der alkoholfreie Caipirinha wird Ipanema genannt.</cocktaildescription>
+        <cocktailimage>images/ipanema.png</cocktailimage>
+        <cocktailingredients>Limetten,brauner Zucker,Ginger Ale</cocktailingredients>
+    </cocktail>
+     <cocktail>
+        <cocktailname>Haustrunk</cocktailname>
+        <cocktailprice>4.00</cocktailprice>
+        <cocktaildescription>Der Haustrunk ist eine eigene Kreation aus dem Thüringer Landhaus.</cocktaildescription>
+        <cocktailimage>images/haustrunk.png</cocktailimage>
+        <cocktailingredients>Orangensaft,Pfirsichlikör,Rotwein</cocktailingredients>
+    </cocktail>
+</cocktailcarousel>
