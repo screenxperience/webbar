@@ -26,7 +26,16 @@ xhttp.onreadystatechange = function() {
 
                 articlePrice = sectionArticles[j].getElementsByTagName('articleprice')[0].innerHTML;
 
-                section += '<div class="pill light-midnight-black">'+articleName+' '+articlePrice+' &euro;</div>';   
+                articleAlcohol = sectionArticles[j].getElementsByTagName('articlealcohol')[0].innerHTML;
+
+                if(articleAlcohol==1)
+                {
+                    section += '<div class="pill midnight-black">'+articleName+' '+articlePrice+' &euro;</div>';
+                }
+                else
+                {
+                    section += '<div class="pill leaf-green">'+articleName+' '+articlePrice+' &euro;</div>';
+                } 
             }
 
             section += '</div>';

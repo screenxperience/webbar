@@ -5,34 +5,42 @@
         <sectionarticle>
             <articlename>Caipirinha</articlename>
             <articleprice>4.00</articleprice>
+            <articlealcohol>1</articlealcohol>
         </sectionarticle>
         <sectionarticle>
             <articlename>Grüne Wiese</articlename>
             <articleprice>4.00</articleprice>
+            <articlealcohol>1</articlealcohol>
         </sectionarticle>
         <sectionarticle>
             <articlename>Haustrunk</articlename>
             <articleprice>4.00</articleprice>
+            <articlealcohol>1</articlealcohol>
         </sectionarticle>
         <sectionarticle>
             <articlename>Ipanema</articlename>
             <articleprice>4.00</articleprice>
+            <articlealcohol>0</articlealcohol>
         </sectionarticle>
         <sectionarticle>
             <articlename>Pina Colada</articlename>
             <articleprice>4.00</articleprice>
+            <articlealcohol>1</articlealcohol>
         </sectionarticle>
         <sectionarticle>
             <articlename>Sex on the Beach</articlename>
             <articleprice>4.00</articleprice>
+            <articlealcohol>1</articlealcohol>
         </sectionarticle>
         <sectionarticle>
             <articlename>Sportsman</articlename>
             <articleprice>4.00</articleprice>
+            <articlealcohol>0</articlealcohol>
         </sectionarticle>
         <sectionarticle>
             <articlename>Virgin Colada</articlename>
             <articleprice>4.00</articleprice>
+            <articlealcohol>0</articlealcohol>
         </sectionarticle>
     </section>
     <section>
@@ -40,18 +48,22 @@
         <sectionarticle>
             <articlename>Creme</articlename>
             <articleprice>1.50</articleprice>
+            <articlealcohol>1</articlealcohol>
         </sectionarticle>
         <sectionarticle>
             <articlename>Kirsch</articlename>
             <articleprice>1.50</articleprice>
+            <articlealcohol>1</articlealcohol>
         </sectionarticle>
         <sectionarticle>
             <articlename>Pfeffi</articlename>
             <articleprice>1.50</articleprice>
+            <articlealcohol>1</articlealcohol>
         </sectionarticle>
         <sectionarticle>
             <articlename>Pfirsich</articlename>
             <articleprice>1.50</articleprice>
+            <articlealcohol>1</articlealcohol>
         </sectionarticle>
     </section>
     <section>
@@ -59,14 +71,12 @@
         <sectionarticle>
             <articlename>Amaretto Apfel</articlename>
             <articleprice>4.00</articleprice>
+            <articlealcohol>1</articlealcohol>
         </sectionarticle>
         <sectionarticle>
             <articlename>Gin Tonic</articlename>
             <articleprice>4.00</articleprice>
-        </sectionarticle>
-        <sectionarticle>
-            <articlename>Whisky Cola</articlename>
-            <articleprice>4.00</articleprice>
+            <articlealcohol>1</articlealcohol>
         </sectionarticle>
     </section>
     <section>
@@ -74,21 +84,25 @@
         <sectionarticle>
             <articlename>Black Ram</articlename>
             <articleprice>4.00</articleprice>
+            <articlealcohol>1</articlealcohol>
         </sectionarticle>
         <sectionarticle>
             <articlename>Jack Daniels</articlename>
             <articleprice>4.00</articleprice>
+            <articlealcohol>1</articlealcohol>
         </sectionarticle>
         <sectionarticle>
             <articlename>Glenfiddich</articlename>
             <articleprice>4.00</articleprice>
+            <articlealcohol>1</articlealcohol>
         </sectionarticle>
     </section>
-     <section>
+    <section>
         <sectionname>Sonstiges</sectionname>
         <sectionarticle>
             <articlename>Glas Sekt</articlename>
             <articleprice>3.50</articleprice>
+            <articlealcohol>1</articlealcohol>
         </sectionarticle>
     </section>
 </menu>
